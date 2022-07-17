@@ -1,5 +1,6 @@
 [package]
 name = "gba-compression"
+description = "Pure Rust implementations of the compression/decompression routines used by the GBA."
 version = "0.1.0"
 edition = "2021"
 license = "Zlib OR Apache-2.0 OR MIT"
